@@ -13,4 +13,4 @@ Caveats:
 - Webcam.py has a hard time recognizing faces when the faces are moving quickly
 
 No commit history for the files because I finished all of the programs before uploading to GitHub. 
-<br/>Name "joshrecognition" comes from my friend Josh, whose face was the first to be used with this program.
+<br/>Name "joshrecognition" comes from my friend Josh, whose face was the first to be tested with this program.
