@@ -11,3 +11,5 @@ Modules needed:
 Caveats:
 - Facial recognition identifiers come from the Haar Cascade, and while they generally work well, they aren't perfect- the most common issue would be counting the number of faces incorrectly (which is both an openCV and Haar Cascade issue)
 - Webcam.py has a hard time recognizing faces when the faces are moving quickly
+
+No commit history for the files because I finished all of the programs before uploading to GitHub. 
